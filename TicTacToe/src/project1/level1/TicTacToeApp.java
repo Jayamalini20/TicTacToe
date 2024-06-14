@@ -10,7 +10,6 @@ public class TicTacToeApp
 	static boolean continueGame=true;
 	static int count=0;
 	
-	
 	//Main Method
 	public static void main(String[] args) 
 	{
